@@ -13,7 +13,7 @@ $links = [
         'text' => 'POST: Envoi d\'un formulaire de modification contenant des erreurs et rechargement du formulaire en affichant à l\'utilisateur un message d\'erreur global.'
     ],
     [
-        'url' => '/Scenario04/index.php',
+        'url' => '/Scenario04/edit.php',
         'text' => 'POST: Envoi d\'un formulaire de modification contenant des erreurs et rechargement du formulaire en affichant à l\'utilisateur un message d\'erreur pour chacun des champs invalides.'
     ],
     [
