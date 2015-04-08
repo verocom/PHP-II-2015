@@ -9,7 +9,7 @@ $links = [
         'text' => 'GET: Récupération de deux paramètres de QueryString numériques nommées "pageNumber" et "pageSize" représentant le numéro de la page et le nombre d\'enregistrements par page d\'un système de pagination.'
     ],
     [
-        'url' => '/Scenario03/index.php',
+        'url' => '/Scenario03/edit.php',
         'text' => 'POST: Envoi d\'un formulaire de modification contenant des erreurs et rechargement du formulaire en affichant à l\'utilisateur un message d\'erreur global.'
     ],
     [
