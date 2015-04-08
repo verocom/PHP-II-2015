@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Liste</title>
+        <title>Scénario 1 - Liste</title>
     </head>
     <body>
         <h1>GET: Récupération d'un paramètre de QueryString numérique nommé "id" dans la page de détails.</h1>

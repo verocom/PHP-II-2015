@@ -8,7 +8,7 @@ if (is_numeric($id)){
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Détails</title>
+        <title>Scénario 1 - Détails</title>
     </head>
     <body>
         <h1>GET: Récupération d'un paramètre de QueryString numérique nommé "id" dans la page de détails.</h1>
